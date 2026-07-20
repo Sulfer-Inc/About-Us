@@ -19,8 +19,6 @@
 
 ---
 
-# > whoami
-
 ```console
 $ whoami
 
@@ -31,8 +29,6 @@ in Minecraft infrastructure and Discord applications.
 ```
 
 ---
-
-# > ls services
 
 ```console
 📦 Minecraft Plugins
@@ -50,7 +46,6 @@ in Minecraft infrastructure and Discord applications.
 
 ---
 
-# > cat philosophy.txt
 
 ```text
 Performance First
