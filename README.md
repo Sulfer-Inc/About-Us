@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Sulfer Dev
+#  Sulfer Dev
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=850&lines=Professional+Minecraft+Development;Premium+Discord+Applications;Scalable+Backend+Solutions;Performance+%7C+Security+%7C+Quality" />
 
